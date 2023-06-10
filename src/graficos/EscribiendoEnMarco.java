@@ -4,7 +4,8 @@ import java.awt.Graphics;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 
-
+// Jesus Ortega 29891702
+ 
 public class EscribiendoEnMarco {
 
 	public static void main(String[] args) {
